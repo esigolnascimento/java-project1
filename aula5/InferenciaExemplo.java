@@ -43,14 +43,11 @@ public class InferenciaExemplo {
         }
     }
 
-    //Consegue
-
     // variaveis local inicializadas
     // variavel suporte do enhaced for
     // variavel suporte do for iterativo
     // variavel try with resource
 
-    //Nao consegue
 
     // var nao pode ser utilizado em nivel de classe
     // var nao pode ser utilizado como parametro
